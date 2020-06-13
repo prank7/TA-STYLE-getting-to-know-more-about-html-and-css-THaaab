@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "displayName": "",
+  "descriptionURL": "https://github.com/AltCampus/AC-STYLE-getting-to-know-more-about-html-and-css-THaaab/tree/master/Ex2-assignment-level-1-EHaaaf/block-01-BHaaak/index.md",
+  "uniqueCode": "writeCode",
+  "type": "",
+  "level": 1,
+  "contentType": "csb",
+  "automatedFeedback": "",
+  "githubBranchName": "block-BHaaak",
+  "openFile": "./block-BHaaak",
+  "isTestable": false,
+  "estimatedTimeToComplete": 0,
+  "isPotentialInterviewQuestion": false,
+  "quizOptions": {
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": ""
+  },
+  "quizCorrectAnswerOptions": [],
+  "correctAnswerExplanation": "",
+  "todo": {
+    "isReviewed": false,
+    "isAssignmentDone": true,
+    "shouldSplitBlock": false,
+    "actionsRequired": [{
+      "videoId": "",
+      "scrimbaId": "",
+      "type": "toVideo",
+      "topic": ""
+    }]
+  }
+}
